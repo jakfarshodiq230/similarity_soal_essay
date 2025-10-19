@@ -108,3 +108,23 @@ Press CTRL+C to quit
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: XXX-XXX-XXX
+
+
+## Contoh Permintaan (Postman)
+{
+    "id_soal": "soal_revolusi_industri_1",
+    "jawaban_siswa": "Revolusi Industri adalah perubahan besar di Eropa pada abad ke-18 yang mengubah cara produksi dari manual ke mesin uap.",
+    "kunci_jawaban": "Revolusi Industri adalah periode transformasi besar dalam sejarah manusia, dimulai pada akhir abad ke-18 dan awal abad ke-19, terutama di Britania Raya. Perubahan utama meliputi peralihan dari metode produksi tangan ke mesin, penggunaan energi uap dan air, serta pengembangan sistem pabrik."
+}
+
+## Respons Sukses (HTTP 200 OK):
+{
+    "feedback": [
+        "Tingkat kemiripan (Jaccard Similarity): 0.61",
+        "Jawaban cukup baik dan relevan, namun ada ruang untuk detail lebih lanjut."
+    ],
+    "id_soal": "soal_revolusi_industri_1",
+    "jawaban_siswa": "Revolusi Industri adalah perubahan besar di Eropa pada abad ke-18 yang mengubah cara produksi dari manual ke mesin uap.",
+    "kunci_jawaban": "Revolusi Industri adalah periode transformasi besar dalam sejarah manusia, dimulai pada akhir abad ke-18 dan awal abad ke-19, terutama di Britania Raya. Perubahan utama meliputi peralihan dari metode produksi tangan ke mesin, penggunaan energi uap dan air, serta pengembangan sistem pabrik.",
+    "nilai": 61
+}
