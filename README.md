@@ -14,14 +14,6 @@ Proyek ini menyediakan sebuah API service sederhana menggunakan Flask untuk meng
 - [Persyaratan Sistem](#persyaratan-sistem)
 - [Instalasi](#instalasi)
 - [Cara Menjalankan API Service](#cara-menjalankan-api-service)
-- [Penggunaan API](#penggunaan-api)
-  - [Endpoint](#endpoint)
-  - [Request Body](#request-body)
-  - [Contoh Permintaan (Postman)](#contoh-permintaan-postman)
-  - [Contoh Permintaan (Python `requests`)](#contoh-permintaan-python-requests)
-  - [Contoh Respons](#contoh-respons)
-- [Pengembangan Lanjutan](#pengembangan-lanjutan)
-- [Lisensi](#lisensi)
 
 ## Fitur Utama
 
