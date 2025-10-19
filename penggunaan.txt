@@ -1,0 +1,6 @@
+{
+    "id_soal": "soal_sejarah_1",
+    "jawaban_siswa": "Revolusi Industri dimulai di Inggris, mengubah produksi dari tangan ke mesin uap.",
+    "kunci_jawaban": "Revolusi Industri adalah periode transformasi besar dalam sejarah manusia, dimulai pada akhir abad ke-18 dan awal abad ke-19."
+}
+body=>row
